@@ -46,11 +46,11 @@ This will display a plot comparing Actual OD600 and AS7341 values, with error ba
 
 | S.No | Actual OD600 | AS7341 |
 |------|--------------|--------|
-| 2    | 0.014        | 0.009  |
+| 2    | 0.014        | 0.012  |
 | 3    | 0.062        | 0.056  |
-| 4    | 0.609        | 0.87   |
-| 5    | 0.647        | 0.96   |
-| 6    | 0.854        | 1.20   |
+| 4    | 0.609        | 0.598  |
+| 5    | 0.647        | 0.602  |
+| 6    | 0.854        | 0.957  |
 
 ## 📌 Notes
 
@@ -60,7 +60,8 @@ This will display a plot comparing Actual OD600 and AS7341 values, with error ba
 
 ## 📷 Example Output
 
-![Sample Plot](example_plot.png)
+![image](https://github.com/user-attachments/assets/b8cd8b2e-33ed-4f8e-97c4-0cbef26fe76e)
+
 
 ## 📄 License
 
