@@ -15,7 +15,6 @@ This project compares **optical density (OD600)** readings from actual spectroph
 
 - `od600_comparison.py`: Main Python script for plotting and visualization
 - `README.md`: Project documentation
-- `data.csv` *(optional)*: CSV file of actual and sensor values (can be loaded via pandas)
 
 ## 🔧 Requirements
 
